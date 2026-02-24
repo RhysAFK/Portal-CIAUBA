@@ -13,10 +13,6 @@
 4. Ejecuta `composer install` en la raíz del proyecto.
 5. Accede a `http://localhost/login/public/`
 
-## 📁 Estructura del proyecto
-
-( Aquí incluye el árbol de directorios explicado anteriormente )
-
 ## 🔧 Funcionalidades
 
 - Registro de usuarios con contraseña hasheada.
@@ -31,4 +27,5 @@
 - MySQL
 - PDO
 - Composer (autoload)
+
 - HTML5 / CSS3
